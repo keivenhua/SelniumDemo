@@ -1,0 +1,9 @@
+method: get
+params:
+  corpid: $corpid
+  corpsecret: $corpsecret
+url: https://qyapi.weixin.qq.com/cgi-bin/gettoken
+
+
+
+#string.Template模板替换
