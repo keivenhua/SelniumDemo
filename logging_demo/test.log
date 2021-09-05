@@ -1,0 +1,12 @@
+[2021-09-01 21:03:25,946 - DEBUG - root] 
+ kevin 登录，消费666元
+[2021-09-01 21:03:25,946 - DEBUG - root] 
+ fail
+[2021-09-01 21:04:12,429 - DEBUG - root] 
+ kevin 登录，消费666元
+[2021-09-01 21:04:12,430 - DEBUG - root] 
+ fail
+Traceback (most recent call last):
+  File "F:/Pycharm/0829学生管理系统/department_test/logging_demo/01_logging简单使用.py", line 12, in <module>
+    xxx
+NameError: name 'xxx' is not defined
